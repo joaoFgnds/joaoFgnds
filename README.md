@@ -3,7 +3,7 @@ Olá! Eu sou o João Fagundes 👋
 - 🔭 Atualmente cursando Técnico em Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/joaofgnds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoFgnds&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoFgnds&layout=compact&langs_count=7&theme=blueberry"/>
